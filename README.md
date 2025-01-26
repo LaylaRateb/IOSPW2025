@@ -3,7 +3,10 @@
 - Feel free to play around with other elements, such as image views, textfields, etc.
 - Iplement a way to change the color of the text as well
 
+
+
 App Brainstorming
+
 1)Instagram
 -making reels
 -deleting messages
